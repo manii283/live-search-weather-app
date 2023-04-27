@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/live-search-weather-app/static/css/main.d80216ee.css",
+    "main.js": "/live-search-weather-app/static/js/main.8cd38bf2.js",
+    "static/js/787.6b79a4b9.chunk.js": "/live-search-weather-app/static/js/787.6b79a4b9.chunk.js",
+    "static/media/logo.svg": "/live-search-weather-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/live-search-weather-app/index.html",
+    "main.d80216ee.css.map": "/live-search-weather-app/static/css/main.d80216ee.css.map",
+    "main.8cd38bf2.js.map": "/live-search-weather-app/static/js/main.8cd38bf2.js.map",
+    "787.6b79a4b9.chunk.js.map": "/live-search-weather-app/static/js/787.6b79a4b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80216ee.css",
+    "static/js/main.8cd38bf2.js"
+  ]
+}
